@@ -13,6 +13,6 @@ Here's some of the things I'm hoping to write about:
 * Opinionated guides on how I manage different systems
 * Quirky issues that I run into that I wish someone else had already documented
 
-If you want to connect, feel free to reach out to me on [Mastodon](https://mas.to/@jholt) or the MacAdmins Slack where I'm `@justinholt`.
+If you want to connect, feel free to reach out on [Mastodon](https://mas.to/@jholt) or the MacAdmins Slack where I'm `@justinholt`.
 
 See ya soon.
